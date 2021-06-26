@@ -1,0 +1,4 @@
+JPM
+MS
+TSN
+DOW
